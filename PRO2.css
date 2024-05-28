@@ -1,0 +1,984 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    height: 9000px;
+}
+.FirstTitle{
+    position: absolute;
+    top: 100px;
+    left: 190px;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.comeback{
+    color: orangered;
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+ }
+
+.ex1{
+     background-color: transparent;
+     border: 1px solid orangered;
+     position: absolute;
+     top: 300px;
+     left: 40px;
+     width: 1000px;
+     height: 250px;
+     border-radius: 20px;
+    flex-grow: 1;
+    flex-basis: 200;
+
+}
+.titleex{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 220px;
+    left: 40px;
+    color: rgb(0, 0, 0);
+
+}
+.titleex1{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex01{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex1{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex2{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 600px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex2{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex02{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex2{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex3{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 900px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex3{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex03{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex3{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+
+.ex4{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 1200px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex4{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex04{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex4{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.titleex02{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 1620px;
+    left: 40px;
+    color: rgb(0, 0, 0);
+
+}
+.ex5{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 1690px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex5{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex05{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex5{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex6{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 1990px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex6{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex06{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex6{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex7{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 2290px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex7{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex07{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex7{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex8{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 2590px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex8{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex08{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex8{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.titleex03{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 3000px;
+    left: 40px;
+    color: rgb(0, 0, 0);
+
+}
+
+
+.ex9{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 3070px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex9{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex09{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex9{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex10{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 3370px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex10{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex010{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex10{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex11{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 3670px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex11{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex011{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex11{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex12{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 3970px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex12{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex012{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex12{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex13{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 4270px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex13{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex013{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex13{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+
+
+.titleex04{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    position: absolute;
+    top: 4680px;
+    left: 40px;
+    color: rgb(0, 0, 0);
+
+}
+
+
+.ex14{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 4750px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex14{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex014{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex14{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex15{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 5050px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex15{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex015{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex15{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+
+
+.ex16{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 5350px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex16{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex016{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex16{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+.ex17{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 5650px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex17{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex017{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex17{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+
+.ex18{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 5950px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex18{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex018{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex18{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+
+
+.ex19{
+    background-color: transparent;
+    border: 1px solid orangered;
+    position: absolute;
+    top: 6250px;
+    left: 40px;
+    width: 1000px;
+    height: 250px;
+    border-radius: 20px;
+
+
+}
+
+.titleex19{
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    color: orangered;
+}
+.ex019{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: absolute;
+    top: 100px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    
+
+}
+.imgex19{
+    position: absolute;
+    top: 25px;
+    height: 200px;
+    width: 200px;
+    left: 750px;
+    border-radius: 50%;
+}
+i{
+    color: orangered;
+    font-size: 20px;
+}
+
+.rpe{
+    position: absolute;
+    top: 6650px;
+    left: 250px;
+    color: orangered;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.imgrpe{
+    position: absolute;
+    top: 6750px;
+    height: 250px;
+    width: 700px;
+    left: 320px;
+
+}
+
+.moreinf{
+    position: absolute;
+    top: 7060px;
+    left:330px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+.emailinfo{
+    position: absolute;
+    top: 7090px;
+    left: 330px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    width: 670px;
+    background-color: transparent;
+    border: 1px solid orangered;
+
+}
+.emailinfo:hover{
+    border: 1px solid rgb(255, 129, 83);
+}
+.btn{
+    color: white;
+    background-color: orangered;
+    height: 30px;
+    width: 100px;
+    border: 0px;
+    position: absolute;
+    top: 7140px;
+    left: 330px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn:hover{
+    background-color: rgb(255, 114, 63);
+    color: black;
+}
