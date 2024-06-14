@@ -1,0 +1,614 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+.back01{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+.imgback{
+   
+    height: 400px;
+    width: 650px;
+    position: absolute;
+    top: 150px;
+    left: 650px;
+
+}
+
+
+
+
+.Pr1{
+    margin-top: -5px;
+    background-color: orangered;
+    height: 700px;
+    width: 100%;
+}
+
+
+
+.Logo{
+    height:140px;
+    width: 120px;
+    position: absolute;
+    top: -15px;
+    left: 10px;
+
+}
+.links{
+    position: absolute;
+    top: 47px;
+    left: 440px;
+    color: black;
+}
+a{
+   margin: 25px;
+   text-decoration-line: none;
+   color: rgb(0, 0, 0);
+   font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+    color: rgb(255, 68, 0);
+    transition: 0.4s;
+   
+}
+
+.light{
+    width: 50px;
+}
+
+
+.drakmood{
+    background-color: orangered;
+    color: black;
+    text-decoration-line: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 15px;
+    font-size: 10px;
+    position: absolute;
+    top: -15px;
+    left: 770px;
+
+}
+.drakmood:hover{
+    background-color: rgb(255, 88, 28);
+    transition: 0.3s;
+    color: white;
+
+}
+
+.title1{
+    color:white;
+    background-color: transparent;
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    position: absolute;
+    top: 190px;
+    left: 100px;
+    padding: 10px;
+    margin: 10px;
+
+}
+.title001{
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 320px;
+    left: 125px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.open{
+    background-color: orangered;
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 8px;
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 15px;
+    text-align: center;
+    position: absolute;
+    top: 385px;
+    width: 80px;
+    height: 18px;
+    left: 120px;
+}
+.open:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+
+
+.Img1{
+    height: 550px;
+    width: 500px;
+    position: absolute;
+    top: 750px;
+    left: 100px;
+    border-radius: 20px;
+
+}
+
+.title01{
+    position: absolute;
+    top: 870px;
+    left: 660px;
+    font-size: 37px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title02{
+    position: absolute;
+    top: 1000px;
+    left: 660px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.back1{
+    background-color: rgb(255, 255, 255);
+    height: 700px;
+}
+
+.bigtitle{
+    position: absolute;
+    top: 1450px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    left: 400px;
+    font-size: 35px;
+ 
+ }
+
+ .cart1{
+    background-color: transparent;
+    border: 1px solid orangered;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: 1600px;
+    left: 290px;
+   border-radius: 20px;
+
+}
+.free{
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    left: 35px;
+
+
+}
+.price1{
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 55px;
+   left: 35px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 45px;
+}
+.includ1{
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 85px;
+   left: 25px;
+   font-size: 15px;
+
+}
+.includ01{
+   position: relative;
+   top: 110px;
+   left: 35px;
+   color: rgb(0, 0, 0);
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+}
+.sing1{
+    height: 40px;
+    width: 80px;
+    background-color: orangered;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    border-radius: 20px;
+    position: relative;
+    top: 210px;
+    left: 80px;
+}
+.sing1:hover{
+   background-color: rgb(223, 62, 4);
+   color: rgb(255, 255, 255);
+   transition: 0.3s;
+   box-shadow: 0px 0px 8px rgb(255, 98, 42);
+}
+
+
+.cart2{
+    background-color: transparent;
+    border: 1px solid orangered;
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    top: 1600px;
+    left: 700px;
+   border-radius: 20px;
+
+}
+.pro{
+    color: orangered;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 40px;
+    left: 35px;
+
+
+}
+.price2{
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 55px;
+   left: 35px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 45px;
+}
+.includ2{
+   color: rgb(0, 0, 0);
+   position: relative;
+   top: 85px;
+   left: 25px;
+   font-size: 15px;
+
+}
+.includ02{
+   position: relative;
+   top: 110px;
+   left: 35px;
+   color: rgb(0, 0, 0);
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+}
+.includ03{
+    position: relative;
+    top: 130px;
+    left: 35px;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+ }
+.sing2{
+    height: 40px;
+    width: 80px;
+    background-color: orangered;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 0px;
+    border-radius: 20px;
+    position: relative;
+    top: 210px;
+    left: 80px;
+}
+.sing2:hover{
+   background-color: rgb(223, 62, 4);
+   color: rgb(255, 255, 255);
+   transition: 0.3s;
+   box-shadow: 0px 0px 8px rgb(255, 98, 42);
+}
+
+
+.catego{
+    position: absolute;
+    top: 2200px;
+
+}
+.titlepro{
+    position: relative;
+    top: -50px;
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 450px;
+    
+}
+.cat1{
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      height: 300px;
+      width: 300px;
+      border-radius: 50%;
+      box-shadow: 0px 0px  10px rgb(0, 0, 0);
+}
+.cat1:hover{
+    box-shadow: 1px 1px 15px rgb(0, 0, 0);
+}
+.titcat1{
+    position: absolute;
+    top: 420px;
+    left: 997px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.cat2{
+    position: absolute;
+    top: 100px;
+    left: 500px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 0px 0px  10px rgb(0, 0, 0);
+
+}
+.cat2:hover{
+    box-shadow: 1px 1px 15px rgb(0, 0, 0);
+}
+.titcat2{
+    position: absolute;
+    top: 420px;
+    left: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+.cat3{
+    position: absolute;
+    top: 100px;
+    left: 900px;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: 0px 0px  10px rgb(0, 0, 0);
+    
+}
+.cat3:hover{
+    box-shadow: 1px 1px 15px rgb(0, 0, 0);
+}
+.titcat3{
+    position: absolute;
+    top: 420px;
+    left: 180px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    
+}
+.info{
+    position: absolute;
+    top: 2750px;
+    background-color: rgb(255, 255, 255);
+    height: 1400px;
+    width: 100%;
+}
+video{
+    height: 700px;
+    width: 100%;
+    box-shadow: 0px 0px 10px orangered;
+}
+.never{
+    position: absolute;
+    top: 900px;
+    left: 210px;
+    height: 400px;
+    width: 450px;
+}
+.talein{
+    height: 400px;
+    width: 450px;
+    background: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 900px;
+    left:660px;
+}
+.firstname01{
+     height: 35px;
+     width:200px;
+     background-color: transparent;
+     border: 1px solid rgb(0, 0, 0);
+     position: absolute;
+     top: 120px;
+     left: 10px;
+     color: rgb(0, 0, 0);
+    padding: 2px;
+}
+.firstname01:hover{
+    border: 1px solid orangered;
+    transition: 0.3s;
+}
+.lastname01{
+    height: 35px;
+    width:200px;
+    background-color: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 120px;
+    left: 230px;
+    color: rgb(0, 0, 0);
+    padding: 2px;
+}
+.lastname01:hover{
+    border: 1px solid orangered;
+    transition: 0.3s;
+}
+.email01{
+    height: 35px;
+    width:420px;
+    background-color: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    position: absolute;
+    top: 180px;
+    left: 10px;
+    color: rgb(0, 0, 0);
+    padding: 2px;
+}
+.email01:hover{
+    border: 1px solid orangered;
+    transition: 0.3s;
+}
+.titlenv{
+    position: absolute;
+    top: 50px;
+    left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.sing10{
+    background-color: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 240px;
+    left: 10px;
+    width: 420px;
+    height: 35px;
+    
+}
+.sing10:hover{
+    background-color: orangered;
+    box-shadow: 0px 0px 8px orangered;
+    color: rgb(255, 255, 255);
+    border: 0cap;
+    transition: 0.3s;
+}
+.bk{
+    background-color: orangered;
+    height: 350px;
+    width: 100%;
+    position: absolute;
+    top: 1400px;
+}
+.l1{
+    position: absolute;
+    top: 100px;
+    left: 1050px;
+    color: white;
+}
+.l1:hover{
+    color: black;
+}
+
+.l2{
+    position: absolute;
+    top: 150px;
+    left: 1050px;
+    color: white;
+}
+.l2:hover{
+    color: black;
+}
+.l3{
+    position: absolute;
+    top: 200px;
+    left: 1050px;
+    color: white;
+}
+.l3:hover{
+    color: black;
+}
+.l4{
+    position: absolute;
+    top: 100px;
+    left: 800px;
+    color: white;
+}
+.l4:hover{
+    color: black;
+}
+.l5{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    color: white;
+}
+.l5:hover{
+    color: black;
+}
+.l6{
+    position: absolute;
+    top: 200px;
+    left: 800px;
+    color: white;
+}
+.l6:hover{
+    color: black;
+}
+.l7{
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    color: white;
+}
+.l7:hover{
+    color: black;
+}
+.l8{
+    position: absolute;
+    top: 150px;
+    left: 550px;
+    color: white;
+}
+.l8:hover{
+    color: black;
+}
+.l9{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    color: white;
+}
+.l9:hover{
+    color: black;
+}
+.forcant{
+    position: absolute;
+    top: 50px;
+    left: 51%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+
+}
+.insta{
+    font-size: 30px;
+    position: absolute;
+    top: 220px;
+    left: 70px;
+}
+.insta:hover{
+    color:rgb(252, 43, 85);
+}
+.fb{
+    font-size: 30px;
+    position: absolute;
+    top: 220px;
+    left: 140px;
+}
+.fb:hover{
+    color: rgb(51, 51, 255);
+}
+.what{
+    font-size: 30px;
+    position: absolute;
+    top: 220px;
+    left: 210px;
+}
+.what:hover{
+    color: rgb(23, 243, 23);
+}
+.logfooter{
+    height: 180px;
+    width: 200px;
+    position: absolute;
+    top: 30px;
+    left: 72px;
+}
